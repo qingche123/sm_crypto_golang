@@ -1,4 +1,6 @@
 /*
+ * Package sm3 implements the Chinese SM3 Digest Algorithm,
+ * according to "go/src/crypto/sha256"
  * author: weizhang <d5c5ceb0@gmail.com>
  * 2017.02.24
  */

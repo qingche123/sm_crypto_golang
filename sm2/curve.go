@@ -1,5 +1,6 @@
 /*
- * Package sm2 implements the Chinese SM2 Algorithm, according to "go/src/crypto/ecdsa".
+ * Package sm2 implements the Chinese SM2 Algorithm,
+ * according to "go/src/crypto/ecdsa".
  * author: weizhang <d5c5ceb0@gmail.com>
  * 2017.02.26
  */
