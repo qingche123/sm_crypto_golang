@@ -25,7 +25,7 @@ type combinedMult interface {
 }
 
 const (
-	aesIV = "IV for ECDSA CTR"
+	aesIV = "IV for <SM2> CTR"
 )
 
 // PublicKey represents an SM2 public key.
